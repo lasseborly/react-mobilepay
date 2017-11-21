@@ -24,7 +24,6 @@ export const Payment = props => {
 }
 
 export default Payment
-
 ```
 
 ## Props

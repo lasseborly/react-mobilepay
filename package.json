@@ -42,12 +42,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/densouadtech/react-mobilepay.git"
+    "url": "git+https://github.com/lasseborly/react-mobilepay.git"
   },
-  "author": "Lasse Borly <lasse@tradingdesk.dk>",
+  "author": "Lasse Borly <lasseborly@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/densouadtech/react-mobilepay/issues"
+    "url": "https://github.com/lasseborly/react-mobilepay/issues"
   },
-  "homepage": "https://github.com/densouadtech/react-mobilepay#readme"
+  "homepage": "https://github.com/lasseborly/react-mobilepay#readme"
 }
