@@ -4,13 +4,13 @@ A __MobilePay__ button for your store. With all the desired properties.
 
 ## Installation
 
-```
+```bash
 npm install react-mobilepay
 ```
 
 ## Example usage
 
-```
+```js
 import React from 'react'
 import MobilePay from 'react-mobilepay'
 
@@ -70,7 +70,7 @@ If you would want to override some of the styles via `className`.
 Due to the internal usage of `styled-components` the specificity needs to be
 quite high when doing this. Because of this your usage might look like this.
 
-```
+```js
 // Component
 <MobilePay className="mobilepayButton">
 
@@ -163,7 +163,11 @@ As of now this is the only paytype that defines MobilePay when dealing with Nets
 If you would want to override some of the styles via a `style` object. This
 only applies to the wrapper.
 
-__Example__: `<MobilePay style={{margin: '50px'}} />`
+__Example__:
+
+```js
+<MobilePay style={{margin: '50px'}} />
+```
 
 ## Contribute
 
