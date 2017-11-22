@@ -78,7 +78,6 @@ quite high when doing this. Because of this your usage might look like this.
 .mobilepayButton.mobilepayButton {
   margin: 50px;
 }
-.
 ```
 
 You will ever only be able to change the styles of the wrapping container
