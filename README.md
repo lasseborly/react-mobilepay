@@ -91,13 +91,13 @@ __default__: `208`
 
 At the moment MobilePay exposes only a few currencies to be used.
 
-__Danish Krone__:`"208"`
+__Danish Krone__:`208`
 
-__Euro__:`"978"`
+__Euro__:`978`
 
-__Norwegian Krone__:`"578"`
+__Norwegian Krone__:`578`
 
-__Swedish Krona__:`"752"`
+__Swedish Krona__:`752`
 
 
 These values are based upon [ISO-4217](https://en.wikipedia.org/wiki/ISO_4217).
